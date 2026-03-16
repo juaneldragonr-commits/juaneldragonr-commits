@@ -1,10 +1,12 @@
 ## Hi there 👋
 
 :computer: **Frontend Developer**
-:pencil: **Trilingüe: Ingles, Español y Portugues**
-👓: **Geek empedernido** (¿aún se usa geek?)
-:oncoming_automobile: **Cosmopolita**
-:family: ****
+
+🗺️ **Trilingüe: Inglés, Español y Portugués**
+
+👓 **Geek empedernido** (¿aún se usa geek?)
+
+🫂 **Cosmopolita**
 
 ### Vias de contacto
 ![website](https://github.com/juaneldragonr-commits)
