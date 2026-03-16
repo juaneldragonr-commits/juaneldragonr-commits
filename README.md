@@ -2,7 +2,7 @@
 
 :computer: **Frontend Developer**
 :pencil: **Trilingüe: Ingles, Español y Portugues**
-:eyesglasesses: **Geek empedernido** (¿aún se usa geek?)
+👓: **Geek empedernido** (¿aún se usa geek?)
 :oncoming_automobile: **Cosmopolita**
 :family: ****
 
