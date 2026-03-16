@@ -2,8 +2,8 @@
 
 :computer: **Frontend Developer**
 
-🗺️ **Trilingual🌎
- English, Spanish and Portuguese**
+🗺️ **Polyglot🌎
+ English, Spanish, Portuguese and Italian**
 
 👓 **Die-hard geek** (Is "geek" still used?)
 
