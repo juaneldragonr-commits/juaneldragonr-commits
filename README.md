@@ -2,11 +2,12 @@
 
 :computer: **Frontend Developer**
 
-🗺️ **Trilingüe: Inglés, Español y Portugués**
+🗺️ **Trilingual🌎
+ English, Spanish and Portuguese**
 
-👓 **Geek empedernido** (¿aún se usa geek?)
+👓 **Die-hard geek** (Is "geek" still used?)
 
-🫂 **Cosmopolita**
+🫂 **Cosmopolitan**
 
 ### Vias de contacto
 ![website](https://github.com/juaneldragonr-commits)
