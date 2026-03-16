@@ -9,5 +9,5 @@
 
 🫂 **Cosmopolitan**
 
-### Vias de contacto
-![website](https://github.com/juaneldragonr-commits)
+
+
